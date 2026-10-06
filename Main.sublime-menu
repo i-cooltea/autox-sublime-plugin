@@ -1,0 +1,37 @@
+[
+{
+	"id" : "AutoJs",
+	"caption": "AutoJs",
+	"children":
+	[
+	{
+		"caption" : "运行(Run)",
+		"command" : "run"
+	},
+	{
+		"caption" : "再次运行(Rerun)",
+		"command" : "rerun"
+	},
+	{
+		"caption" : "停止(Stop)",
+		"command" : "stop"
+	},
+	{
+		"caption" : "全部停止(StopAll)",
+		"command" : "stop_all"
+	},
+	{
+		"caption" : "保存到手机(save)",
+		"command" : "save_to_phone"
+	},
+	{
+		"caption" : "启动服务(Start Server)",
+		"command" : "connect"
+	},
+	{
+		"caption" : "断开连接(Stop Server)",
+		"command" : "disconnect"
+	}
+	]
+}
+]

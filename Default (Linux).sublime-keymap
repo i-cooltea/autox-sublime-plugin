@@ -1,0 +1,14 @@
+[
+{ 
+	"keys": ["f5"],
+	"command": "run"
+},
+{ 
+	"keys": ["f6"],
+	"command": "rerun"
+},
+{ 
+	"keys": ["f4"],
+	"command": "stop"
+},
+]
